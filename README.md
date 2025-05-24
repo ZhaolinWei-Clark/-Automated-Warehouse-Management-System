@@ -1,1 +1,1 @@
-# -Automated-Warehouse-Management-System
+# Automated-Warehouse-Management-System

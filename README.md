@@ -1,9 +1,9 @@
 # MECH524 Project: Automated Warehouse Management System
 
 ## Team Members
-- Haoyuan Jiang (14636898)
-- Zhaolin Wei (89282347)
-- Kushal Sedhai (60286127)
+- Zhaolin Wei 
+- Haoyuan Jiang 
+- Kushal Sedhai 
 
 ## Table of Contents
 - [Overview](#overview)
